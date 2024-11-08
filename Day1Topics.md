@@ -29,6 +29,16 @@
 * Overleaf is a user-friendly online Latex editor.
 * It provides access to numerous inbuilt templates that are customizable.
 
-## Stackedit
+## StackEdit
+* StackEdit is an online Markdown editor
+* It provides features for editing documents.
+* It allows users to track and revert changes.
+
+## GitHub Pages 
+* It is a GitHub feature that allows users to create and host websites directly from their GitHub repositories.
+* Useful for making portfolios.
 * 
+
+
+
 
