@@ -27,7 +27,7 @@
 
 ## Overleaf (Latex Editor)
 * Overleaf is a user-friendly online Latex editor.
-* It provides access to numerous inbuilt templates that are customizable.
+* It provides access to numerous customizable inbuilt templates.
 
 ## StackEdit
 * StackEdit is an online Markdown editor
@@ -36,9 +36,13 @@
 
 ## GitHub Pages 
 * It is a GitHub feature that allows users to create and host websites directly from their GitHub repositories.
-* Useful for making portfolios.
-* 
+* Useful for making portfolios and documentation.
+* Websites are built using files like HTML, CSS, and JavaScript.
 
+## Visual Studio Code (VS Code)
+* VS Code is a free, open-source code editor developed by Microsoft.
+* VS Code's extension marketplace lets users personalize their setups with tools for various languages and frameworks.
+ 
 
 
 
