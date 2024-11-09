@@ -3,6 +3,9 @@
 * The Software Development Life Cycle is a structured process to design, develop, and test software.
 * It provides a methodology that outlines the entire software development procedure step-by-step. 
 * The primary goal of the SDLC model is to deliver maintainable software that meets the user's requirements.
+
+
+
 * Stages of the Software Development Life Cycle :
   - Stage 1: Planning and requirement analysis
     - This stage defines the project's purpose, scope, and requirements.
