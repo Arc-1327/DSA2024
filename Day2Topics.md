@@ -70,7 +70,7 @@
   5. Monitor and track progress using dashboards and reports.
   6. Test the Issue and mark it as Done once it's completed.
 * JIRA also offers plug-ins, which are software tools that users can install to enhance JIRA's functionality.
-* An example of a JIRA plug-in is Zephyr.
+* An example of a JIRA plug-in is Zephyr Scale.
 
 
   
