@@ -34,6 +34,22 @@
   <img src="https://github.com/user-attachments/assets/e1289a48-4f7b-402d-9a4d-5672867c82db" width="500" />
 </p>
 <br>
+
+## Agile Methodology
+* The Agile Methodology is a flexible and collaborative approach to project management and software development.
+* This methodology is iterative, allowing product development in small, manageable sections called Sprints.
+* A sprint usually lasts 1 - 2 weeks.
+* Each Sprint produces a functioning software that can be reviewed and improved.
+* After each sprint, teams evaluate their processes and identify areas for improvement.
+* The Agile methodology remains adaptive to changes throughout the development process.
+
+<p align="center">
+<br>
+  <img src="https://github.com/user-attachments/assets/4781a0a7-e0a3-4d49-89a9-e5e1e09b8c07" width="550" />
+</p>
+<br>
+
+
   
 
 
