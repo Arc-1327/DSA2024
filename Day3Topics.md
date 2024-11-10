@@ -1,6 +1,6 @@
 # Day 3
 ## Artificial Intelligence (AI)
-* AI refers to the simulation of human intelligence in machines that are programmed to think, reason, and learn like humans.
+* AI refers to the simulation of human intelligence in machines programmed to think, reason, and learn like humans.
 * AI systems use algorithms and data to recognize patterns, make decisions, and improve performance.
 * Core concepts of AI include Machine Learning, Neural Networks, Deep Learning, etc.
 * Alan Turing, a British mathematician and computer scientist, was one of the early pioneers in Artificial Intelligence.
@@ -28,7 +28,7 @@
 <br>
 
 ## Supervised Learning
-* It is a fundamental approach in machine learning where models are trained on labeled datasets.
+* It is a fundamental approach in machine learning where models are trained using labeled datasets.
 * The model learns by finding patterns in the data to map inputs to the correct outputs.
 * This technique is used to predict outcomes based on input features.
 * Applications of Supervised Learning include spam detection, image classification, etc.
@@ -37,5 +37,22 @@
   2. Regression: The model learns from labeled data to predict a target value within a continuous range instead of classifying it into specific categories.
 
  ## Unsupervised Learning
- * 
+ * It is a fundamental approach in machine learning where models are trained using unlabeled datasets.
+ * Unsupervised learning focuses on identifying hidden patterns and structures in data without using labeled outputs.
+ * This method relies on the inherent structure of the input data.
+ * The model fundamentally learns the structure of the data independently.
+ * Types of Unsupervised Learning:
+   1. Clustering: The algorithm detects patterns in data to create clusters based on their characteristics.
+   2. Association: The algorithm detects relationships, associations, and patterns among variables in large datasets.
+
+## Python 
+* Python is a high-level object-oriented programming language.
+* Created by Guido van Rossum.
+* Python's syntax is clear and straightforward, making it beginner-friendly and easy to use.
+* Python provides a collection of libraries like NumPy, Pandas, and Scikit-learn for data science.
+  
+
+
+
+
 
