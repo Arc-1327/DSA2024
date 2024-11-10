@@ -64,12 +64,14 @@
   
 * The stages of the data science life cycle include:
   1. Business understanding: Defining the problem or objectives and goals of the project.
-  2. Preparation of data: Gather relevant data and clean the data by handling missing values, removing duplicates, correcting errors,
+  2. Data preparation: Gather relevant data and clean the data by handling missing values, removing duplicates, correcting errors,
      and formatting it for analysis. 
   3. Exploratory Data Analysis (EDA): Visualization tools are used to understand patterns, relationships, etc within the data.
-  4. Modeling the data: Machine learning algorithms are applied to train models on prepared data.
-  5. Evaluating the model: The model is examined and evaluated using assessment metrics like accuracy, precision, etc.
-  6. 
+  4. Data Modeling: Machine learning algorithms are applied to train models on prepared data.
+  5. Model evaluation: The model is examined and evaluated using assessment metrics like accuracy, precision, etc.
+  6. Model Deployment: After the assessments are completed, the model is deployed to end users.
+
+     
   
 
 
