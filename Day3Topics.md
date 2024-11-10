@@ -31,6 +31,11 @@
 * It is a fundamental approach in machine learning where models are trained on labeled datasets.
 * The model learns by finding patterns in the data to map inputs to the correct outputs.
 * This technique is used to predict outcomes based on input features.
-* Applications of Supervised Learning include spam detection, medical diagnosis, etc.
-* 
+* Applications of Supervised Learning include spam detection, image classification, etc.
+* Types of Supervised Learning:
+  1. Classification: The model learns to categorize data points based on labeled examples provided during training.
+  2. Regression: The model learns from labeled data to predict a target value within a continuous range instead of classifying it into specific categories.
+
+ ## Unsupervised Learning
+ * 
 
