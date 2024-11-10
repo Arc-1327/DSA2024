@@ -50,9 +50,26 @@
 * Created by Guido van Rossum.
 * Python's syntax is clear and straightforward, making it beginner-friendly and easy to use.
 * Python provides a collection of libraries like NumPy, Pandas, and Scikit-learn for data science.
+
+## Data Science Life Cycle
+* It is a structured process for working on data science projects, ensuring that the data is collected, analyzed, and transformed into actionable insights.
+* It helps to convert large quantities of unstructured records or data into significant insights.
+* This methodology can assist in predictions such as the range of surveys, elections, etc.
+
+<p align="center">
+<br>
+  <img src="https://github.com/user-attachments/assets/3834e221-a556-4c29-93d2-88048cb7d592" width="570" height="300"/>
+</p>
+<br>
   
-
-
-
+* The stages of the data science life cycle include:
+  1. Business understanding: Defining the problem or objectives and goals of the project.
+  2. Preparation of data: Gather relevant data and clean the data by handling missing values, removing duplicates, correcting errors,
+     and formatting it for analysis. 
+  3. Exploratory Data Analysis (EDA): Visualization tools are used to understand patterns, relationships, etc within the data.
+  4. Modeling the data: Machine learning algorithms are applied to train models on prepared data.
+  5. Evaluating the model: The model is examined and evaluated using assessment metrics like accuracy, precision, etc.
+  6. 
+  
 
 
